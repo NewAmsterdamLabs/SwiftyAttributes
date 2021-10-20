@@ -1,5 +1,7 @@
 # SwiftyAttributes
 
+**This fork bumps the `IPHONEOS_DEPLOYMENT_TARGET` build setting to 9.0 to fix a Swift Package Manager warning. It is otherwise identical to the offical library.**
+
 #### *A Swifty API for attributed strings.*
 
 ![Swift Version](https://img.shields.io/badge/swift-5-orange.svg?style=flat)
